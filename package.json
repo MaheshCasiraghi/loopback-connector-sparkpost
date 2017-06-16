@@ -22,8 +22,8 @@
   "_npmVersion": "5.0.3",
   "_phantomChildren": {},
   "_requested": {
-    "name": "loopback-connector-sparkpost",
-    "raw": "loopback-connector-sparkpost",
+    "name": "loopback-connector-sparkpost_2",
+    "raw": "loopback-connector-sparkpost_2",
     "rawSpec": "",
     "scope": null,
     "spec": "latest",
@@ -34,7 +34,7 @@
   ],
   "_shasum": "b1f0cbba1994e515249e103fa70cd6508ed53f0e",
   "_shrinkwrap": null,
-  "_spec": "loopback-connector-sparkpost",
+  "_spec": "loopback-connector-sparkpost_2",
   "_where": "/vagrant/greenback-api",
   "author": {
     "email": "mahesh.casiraghi@gmail.com",
@@ -77,7 +77,7 @@
       "email": "mahesh.casiraghi@gmail.com"
     }
   ],
-  "name": "loopback-connector-sparkpost",
+  "name": "loopback-connector-sparkpost_2",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
